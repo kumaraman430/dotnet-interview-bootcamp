@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-csharp-fundamentals", "01-csharp-fundamentals", "{339F3CB1-9F39-80D7-FEA5-C57FDF94C227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementApp", "01-csharp-fundamentals\EmployeeManagementApp\EmployeeManagementApp.csproj", "{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8C69B20-8E4D-87DA-C6EC-71F5C48F2F5F} = {339F3CB1-9F39-80D7-FEA5-C57FDF94C227}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEFE792A-58E5-4D61-B1FA-33E233CC4CCE}
+	EndGlobalSection
+EndGlobal
